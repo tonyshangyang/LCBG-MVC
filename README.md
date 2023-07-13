@@ -6,7 +6,7 @@ https://github.com/LeoYHZ/LCBG  Provided by LeoYHZ
 
 ##Run
 \
-run_clusters.m\
+run_clusters.m
 
 
 ##notice
