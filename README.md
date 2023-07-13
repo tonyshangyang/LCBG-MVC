@@ -6,8 +6,8 @@ https://github.com/LeoYHZ/LCBG  Provided by LeoYHZ
 
 ##Run
 \
-run_clusters.m
-\
+run_clusters.m\
+
 
 ##notice
 If notice any inadequacy, please point it out for mutual communication.
@@ -16,4 +16,3 @@ If notice any inadequacy, please point it out for mutual communication.
 https://doi.org/10.1016/j.neucom.2022.09.002
         
         
-=
